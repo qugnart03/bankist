@@ -5,7 +5,7 @@
 * If you want to edit, please access the script.js file
   
 ## Demo
-![image](https://github.com/qugnart03/bankist/assets/143785031/b0cfea7d-462f-42bc-a001-19a71882fa49)
+![image](https://github.com/qugnart03/bankist/assets/143785031/4c1a2e40-8487-4f13-b952-3e63b8bc5ab1)
 
 ## Functions
 * We can login, logout
